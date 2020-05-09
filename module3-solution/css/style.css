@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+/*desktop*/
+@media (min-width: 992px) {
+}
+/*tablet*/
+@media (max-width: 991px) and (min-width: 768px) {
+}
+
+/*mobile*/
+@media (max-width: 767px) {
+}
