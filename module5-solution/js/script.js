@@ -116,7 +116,7 @@ $(function () {
         ///
         var chosenCategoryShortName = chooseRandomCategory(categories)
           .short_name;
-        //console.log(chosenCategoryShortName);
+
         ///
 
         ///
@@ -148,7 +148,7 @@ $(function () {
           "randomCategoryShortName",
           "'" + chosenCategoryShortName + "'"
         );
-        console.log(homeHtmlToInsertIntoMainPage);
+
         ///
 
         // var homeHtmlToInsertIntoMainPage = ....
